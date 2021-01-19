@@ -1,0 +1,15 @@
+------CUSTOMER BILL-------
+PO Number: 10
+Customer Id: 103
+Customer Name: Carine Schmitt
+Order Date: 2020-08-24
+Ship Date: 2020-09-29
+Ship Status: true
+
+Item which are ordered
+Item Name:	Orange
+Amount   :	90
+Quantity :	3 KG
+
+Total Amount = 90
+-----------------------------------

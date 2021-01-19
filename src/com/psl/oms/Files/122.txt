@@ -1,0 +1,19 @@
+------CUSTOMER BILL-------
+PO Number: 122
+Customer Id: 105
+Customer Name: John
+Order Date: 2020-09-29
+Ship Date: 2020-09-19
+Ship Status: false
+
+Item which are ordered
+Item Name:	juice
+Amount   :	800
+Quantity :	8 LTR
+
+Item Name:	Potato
+Amount   :	40
+Quantity :	8 KG
+
+Total Amount = 840
+-----------------------------------

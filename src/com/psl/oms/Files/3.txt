@@ -1,0 +1,8 @@
+------CUSTOMER BILL-------
+PO Number: 3
+Customer Id: 103
+Customer Name: Carine Schmitt
+Order Date: 2020-09-25
+Ship Date: 2020-09-29
+Ship Status: false
+null

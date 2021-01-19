@@ -1,0 +1,15 @@
+------CUSTOMER BILL-------
+PO Number: 103
+Customer Id: 106
+Customer Name: Diego Luis
+Order Date: 2020-09-19
+Ship Date: 2020-09-19
+Ship Status: false
+
+Item which are ordered
+Item Name:	juice
+Amount   :	1200
+Quantity :	12 LTR
+
+Total Amount = 1200
+-----------------------------------
