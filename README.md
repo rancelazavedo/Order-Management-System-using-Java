@@ -17,7 +17,7 @@ METHOD 2(Create DB):
 3. Modify the 'config.properties' file as per your Database properties.
 4. Ensure that the MySQL Server is runnning.
 
-#Functions PERFORMED
+# FUNCTIONS PERFORMED
 1.Add New Customer
 2.Add new Purchase Order
 3.Add new Stock Item
@@ -35,7 +35,7 @@ a.By default, every order placed by customer should get dispatched within the 4 
 12.Find the customer who has made maximum orders.
 13.Generate bill for customer for specific order. (create file under bills/customerid directory )
 
-#PREREQUISTE
+# PREREQUISTE
 -Ensure the the path is correct to the Files Folder in BillGenerator
 -Ensure XAMPP is running at all times during execution
 -Run OMSTester to run the main code
